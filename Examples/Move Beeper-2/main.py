@@ -1,1 +1,4 @@
-print("Hello")
+
+move()
+pick_beeper()
+move()
