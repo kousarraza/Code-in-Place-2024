@@ -1,7 +1,7 @@
 # World:
 
-<img src="/Images/Example_3_World.PNG" />
+<img src="/Images/Example2_World.PNG" />
 
 # Goal:
 
-<img src="/Images/Example_3_Goal.PNG" />
+<img src="/Images/Example2_Goal.PNG" />
