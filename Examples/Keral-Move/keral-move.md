@@ -1,7 +1,7 @@
 ## World:
 
 <img src="/Images/keral_world.PNG"/>
-----------------------
+
 
 ## Goal:
 
