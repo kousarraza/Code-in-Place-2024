@@ -1,4 +1,4 @@
-## Goal:
+## World:
 
 <img src="/Images/Example2_World.PNG" />
 
